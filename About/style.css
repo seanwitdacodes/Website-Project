@@ -1,0 +1,23 @@
+.items {
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  display: inline-block;
+  color: black;
+}
+
+nav img {
+  height: 30px;
+  width: 40px;
+}
+
+
+nav {
+  padding: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.items:hover {
+  background-color: transparent;
+  opacity: 0.5
+}

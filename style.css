@@ -1,0 +1,168 @@
+.items {
+  font-size: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  display: inline-block;
+  color: black;
+}
+
+nav img {
+  height: 30px;
+  width: 40px;
+}
+
+
+
+nav {
+  padding: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.items:hover {
+  background-color: transparent;
+  opacity: 0.5
+}
+
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+#first-p {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-top: 150px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+}
+
+
+.header {}
+
+.Team {
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 15px;
+  margin-left: 600px;
+
+
+}
+
+.AllStarCode {
+  background-color: pink;
+}
+
+
+.sexy_sharjeel img {
+  width: 300px;
+  height: 300px;
+}
+
+.Sean img {
+  width: 300px;
+  height: 300px;
+}
+
+.Rafsan img {
+  width: 300px;
+  height: 300px;
+}
+
+.Patrick img {
+  width: 300px;
+  height: 300px;
+}
+
+.pictures {
+  display: flex;
+  justify-content: center;
+
+}
+
+.Patrick {
+  border: solid 3px black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.Sean {
+  border: solid 3px black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.sexy_sharjeel {
+  border: solid 3px black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.Rafsan {
+  border: solid 3px black;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
+.Our_Work {
+  text-align: center;
+  border: 2px solid black;
+  padding: 10px;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 15px;
+  margin-left: 600px;
+}
+
+.Sharjeel2 img {
+  width: 300px;
+  height: 300px;
+  float: left;
+
+}
+
+.Patrick2 img {
+  width: 300px;
+  height: 300px;
+  display: inline;
+  float: left;
+}
+
+
+.Sean2 img {
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+
+.Rafsan2 img {
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+
+
+.Contact { 
+  display: flex;
+  justify-content: flex-start; 
+  flex-direction: row;
+  flex-wrap: nowrap; 
+  overflow-x: auto; 
+  width: 100%; 
+}
+
+.Contact img {
+  width: 350px; 
+  height: 300px;
+  margin: 10px;  
+}
